@@ -1,4 +1,4 @@
-# Untitled Educational Game Project
+# Cube Game Project
 
 # Description
 
@@ -45,4 +45,4 @@ Game Engine: Unity
 The game was developed by Maria Kiose and Danai Sdoukou.
 
 # Notes
-The project does not have a specific name as it was created for educational purposes. It is open to improvements and extensions.
+The project is open to improvements and extensions.
